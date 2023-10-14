@@ -1,0 +1,1 @@
+export const createHello = () => 'Hello';
